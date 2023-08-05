@@ -135,7 +135,7 @@
         watch:{
             userProfile() {
                 clearTimeout(setTimeout(()=>this.teamSpinning = false,2000))
-                this.userAvatar =baseUrl+ "/"+ JSON.parse(this.userProfile.image)['0']
+                this.userAvatar =baseUrl+ JSON.parse(this.userProfile.image)['0']
                 setTimeout(()=>this.teamSpinning = false,2000)
             }
         },
