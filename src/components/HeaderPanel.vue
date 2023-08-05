@@ -91,7 +91,7 @@
     } from '@ant-design/icons-vue';
     import { route } from '@/router';
     
-    let baseUrl = JSON.parse(localStorage.getItem('baseUrl'))
+    let baseUrl = '/' + JSON.parse(localStorage.getItem('baseUrl'))
 
     export default{
         name:'HeaderPanel',
