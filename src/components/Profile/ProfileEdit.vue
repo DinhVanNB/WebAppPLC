@@ -82,7 +82,7 @@
                     </a-form-item>
 
                     <a-form-item v-show="ableEdit">
-                        <a-button class="float-right" type="primary" htmlType="submit">Edit</a-button>
+                        <a-button style="background-color: rgb(92, 92, 238);" class="float-right" type="primary" htmlType="submit">Edit</a-button>
                     </a-form-item>
                 </a-form>
             </div>
