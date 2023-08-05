@@ -1,5 +1,5 @@
 <template>
-    <div class="max-w-screen-sm mx-auto bg-white rounded-[1vmin] flex flex-col justify-center shadow-md mt-[10vh]">
+    <div class="max-w-screen-sm mx-auto bg-white rounded-[1vmin] flex flex-col justify-center shadow-md mt-[10vmin]">
         <hmi-vue/>
     </div>
 </template>

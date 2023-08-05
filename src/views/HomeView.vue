@@ -1,5 +1,5 @@
 <template>
-    <div class="max-w-screen-sm mx-auto mt-[10vh] text-center bg-white p-3 rounded-[1vmin] shadow-md">
+    <div class="max-w-screen-sm mx-auto mt-[10vmin] text-center bg-white p-3 rounded-[1vmin] shadow-md">
         <home-content-vue/>
     </div>
 </template>
